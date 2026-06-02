@@ -23,3 +23,5 @@ monitor esp32
 buildvoi fboot file
 <img width="1171" height="173" alt="image" src="https://github.com/user-attachments/assets/75c5b79a-f048-47fb-b13b-e0ed484f961f" />
 <img width="1171" height="173" alt="image" src="https://github.com/user-attachments/assets/7ec69c65-6145-4b4f-8e65-ceac91bc006d" />
+fboot
+<img width="535" height="147" alt="image" src="https://github.com/user-attachments/assets/95423582-1329-46d8-89c2-327c0b987a55" />
