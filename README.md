@@ -26,3 +26,6 @@ buildvoi fboot file
 fboot
 <img width="535" height="147" alt="image" src="https://github.com/user-attachments/assets/95423582-1329-46d8-89c2-327c0b987a55" />
 <img width="535" height="147" alt="image" src="https://github.com/user-attachments/assets/7d0767ca-4f71-4334-bbcf-d3ee41d7035e" />
+<img width="796" height="431" alt="image" src="https://github.com/user-attachments/assets/8291106d-7eab-4f56-a9d7-5f547a263ff6" />
+<img width="478" height="200" alt="image" src="https://github.com/user-attachments/assets/61124679-c0b8-4247-85cc-732b55d185a3" />
+
